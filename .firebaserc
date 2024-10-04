@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "chatbot-asiapacificuniversity",
+    "staging": "chatbot-asiapacificuniversity"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
